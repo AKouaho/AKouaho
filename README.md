@@ -48,3 +48,8 @@ developing practical software projects, and continuously learning emerging techn
 ## CONNECT WITH ME
 
 - **GitHub:** [[My GitHub Profile](https://github.com/AKouaho)]
+
+## My Resume
+
+Interested in learning more about my professional background, education, and experience?
+[View My Professional Resume](./Amon%20Kouaho%20Resume%20update.pdf)
